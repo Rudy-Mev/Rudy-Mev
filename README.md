@@ -34,4 +34,4 @@ End-to-end analytics: SQL Server star schema → Power BI dashboard (130 DAX mea
 ### 📫 Reach me
 
 - 📧 rudy.mevizou.data@outlook.com
-- 🔗 LinkedIn: **TODO** · Malt: **TODO**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rudymevizou/)  · [**Malt**](https://www.malt.fr/profile/rudymevizou)

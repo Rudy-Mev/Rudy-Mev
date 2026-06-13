@@ -29,7 +29,7 @@ PhD in Biology, retrained as a Data Analyst (DataScientest). I bring scientific 
 ### 📌 Featured project
 
 **[AdventureWorks — Sales Performance & Profitability (BI + AI)](https://github.com/Rudy-Mev/adventureworks-sales-dashboard)**
-End-to-end analytics: SQL Server star schema → Power BI dashboard (130 DAX measures) → a Python + LLM pipeline that generates a branded executive PDF report. Built with analytical guardrails (correct distinct counts, comparable-year YoY, rebound detection) — and it runs in **one command on a bundled sample, no database required.**
+End-to-end analytics: SQL Server star schema → Power BI dashboard (a library of DAX measures) → a Python + LLM pipeline that generates a branded executive PDF report. Built with analytical guardrails (correct distinct counts, comparable-year YoY, rebound detection) — and it runs in **one command on a bundled sample, no database required.**
 
 ### 📫 Reach me
 
